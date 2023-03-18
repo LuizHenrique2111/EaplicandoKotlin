@@ -5,7 +5,7 @@
 
 // Assim como Java a linguagem Kotlin é orientada por objetos e suas declaração
 // são feitas dentro do escopo( {} ).
-fun main(args: Array<String>) {
+/*fun main() {
 
     // Assim como todas as linguagens ela tem o print, que imprime aquilo que é
     // inserido dentro dos parenteses, conforme codigo abaixo.
@@ -17,4 +17,4 @@ fun main(args: Array<String>) {
     print("Hello World!")
     print("Eu aqui de novo")
 
-}
+}*/
