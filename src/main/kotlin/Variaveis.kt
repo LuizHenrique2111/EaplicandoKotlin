@@ -19,8 +19,4 @@ fun main() {
     numberB = 15
     numberD = 20
 
-    // É possível também você declarar uma variável sempre precisar inicializa-lá
-    // com um dado, para isso basta usar a palavra-chave "lateinit", junto com o
-    // "var", mas isso só é permitido dentro de classes e interfaces.
-
 }
