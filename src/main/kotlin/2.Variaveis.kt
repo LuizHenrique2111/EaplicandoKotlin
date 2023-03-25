@@ -19,4 +19,14 @@ fun main() {
     numberB = 15
     numberD = 20
 
+    // Variaveis strings
+
+    val nome: String = "Marcos"
+
+    // Caso você queira descobrir a classe da variavel, você pode utilizar
+    // o comando nomeVariavel::class
+    println(nome::class)
+
+    // Com isso você poderá enxerga a classe a da variavel
+
 }
