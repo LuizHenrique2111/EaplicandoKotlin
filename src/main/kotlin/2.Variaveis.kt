@@ -21,12 +21,20 @@ fun main() {
 
     // Variaveis strings
 
-    val nome: String = "Marcos"
+    val name: String = "Marcos"
 
     // Caso você queira descobrir a classe da variavel, você pode utilizar
     // o comando nomeVariavel::class
-    println(nome::class)
+    println(name::class)
 
     // Com isso você poderá enxerga a classe a da variavel
+
+    // Outra variável que você vai constantemente usar, mesmo que seja
+    // indiretamente
+    val married: Boolean = true
+
+    // A variavel booleana pode guardar apenas dois valores, true e false, isso
+    // quer dizer que ou ela pode ser falsa ou verdadeira, ficará mais claro
+    // esse conceito ao estudar lógica booleana da estruturas condicionais
 
 }
